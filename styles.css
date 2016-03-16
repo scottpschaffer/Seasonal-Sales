@@ -1,0 +1,13 @@
+article {
+  border: 2px solid black;
+  margin: 2px;
+  display: inline-block;
+}
+
+header {
+  border-bottom: 2px solid black;
+}
+
+footer {
+  border-top: 2px solid black;
+}
